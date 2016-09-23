@@ -41,7 +41,6 @@ public class HttpManager {
     }
 
     public ApiService getService(){
-
         return service;
     }
 
